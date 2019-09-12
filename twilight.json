@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Twilight",
+    "Rating": "5.2",
+    "episode": 1,
+    "categorie": "Drama | Fantasy | Romance",
+    "img": "https://i.imgur.com/hKwFZhX.jpg"
+  },
+  {
+    "name": "The Twilight Saga: New Moon",
+    "Rating": "4.7",
+    "episode": 1,
+    "categorie": "Adventure | Drama | Fantasy",
+    "img": "https://i.imgur.com/NZZlxm5.jpg"
+  },
+  {
+    "name": "The Twilight Saga: Eclipse",
+    "Rating": "5",
+    "episode": 1,
+    "categorie": "Adventure | Drama | Fantasy",
+    "img": "https://i.imgur.com/l3uLMLk.jpg"
+  },
+  {
+    "name": "The Twilight Saga: Breaking Dawn - Part 1",
+    "Rating": "4.9",
+    "episode": 1,
+    "categorie": "Adventure | Drama | Fantasy",
+    "img": "https://i.imgur.com/QMFCEdQ.jpg"
+  },
+  {
+    "name": "The Twilight Saga: Breaking Dawn - Part 2",
+    "Rating": "5.5",
+    "episode": 1,
+    "categorie": "Adventure | Drama | Fantasy",
+    "img": "https://i.imgur.com/pGPrzv1.jpg"
+  }
+]

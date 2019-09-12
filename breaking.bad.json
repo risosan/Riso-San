@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Breaking Bad – Season 1",
+    "Rating": "9.5",
+    "episode": 7,
+    "categorie": "Crime | Drama | Thriller",
+    "img": "https://i.imgur.com/5tYfwnz.jpg"
+  },
+  {
+    "name": "Breaking Bad – Season 2",
+    "Rating": "9.5",
+    "episode": 13,
+    "categorie": "Crime | Drama | Thriller",
+    "img": "https://i.imgur.com/KFf7mjk.jpg"
+  },
+  {
+    "name": "Breaking Bad – Season 3",
+    "Rating": "9.5",
+    "episode": 13,
+    "categorie": "Crime | Drama | Thriller",
+    "img": "https://i.imgur.com/ObsFz4E.jpg"
+  },
+  {
+    "name": "Breaking Bad – Season 4",
+    "Rating": "9.5",
+    "episode": 13,
+    "categorie": "Crime | Drama | Thriller",
+    "img": "https://i.imgur.com/G3D56c7.jpg"
+  },
+  {
+    "name": "Breaking Bad – Season 5",
+    "Rating": "9.5",
+    "episode": 16,
+    "categorie": "Crime | Drama | Thriller",
+    "img": "https://i.imgur.com/1efQcpn.jpg"
+  }
+]

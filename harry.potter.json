@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "Rating": "7.6",
+    "episode": 1,
+    "categorie": "Adventure | Family | Fantasy",
+    "img": "https://i.imgur.com/jk3Dfg8.jpg"
+  },
+  {
+    "name": "Harry Potter and the Chamber of Secrets",
+    "Rating": "7.4",
+    "episode": 1,
+    "categorie": "Adventure | Family | Fantasy",
+    "img": "https://i.imgur.com/lq03WID.jpg"
+  },
+  {
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "Rating": "7.9",
+    "episode": 1,
+    "categorie": "Adventure | Family | Fantasy",
+    "img": "https://i.imgur.com/Lx1kW84.jpg"
+  },
+  {
+    "name": "Harry Potter and the Goblet of Fire",
+    "Rating": "7.7",
+    "episode": 1,
+    "categorie": "Adventure | Family | Fantasy",
+    "img": "https://i.imgur.com/UH5Kz6k.jpg"
+  },
+  {
+    "name": "Harry Potter and the Order of the Phoenix",
+    "Rating": "7.5",
+    "episode": 1,
+    "categorie": "Adventure | Family | Fantasy",
+    "img": "https://i.imgur.com/e1hbLtZ.jpg"
+  },
+  {
+    "name": "Harry Potter and the Half-Blood Prince",
+    "Rating": "7.6",
+    "episode": 1,
+    "categorie": "Adventure | Family | Fantasy",
+    "img": "https://i.imgur.com/NhxvcrK.jpg"
+  },
+  {
+    "name": "Harry Potter and the Deathly Hallows: Part 1",
+    "Rating": "7.7",
+    "episode": 1,
+    "categorie": "Adventure | Fantasy | Mystery",
+    "img": "https://i.imgur.com/2sojPWi.jpg"
+  },
+  {
+    "name": "Harry Potter and the Deathly Hallows: Part 2",
+    "Rating": "8.1",
+    "episode": 1,
+    "categorie": "Adventure | Fantasy | Mystery",
+    "img": "https://i.imgur.com/gTg6h43.jpg"
+  }
+]

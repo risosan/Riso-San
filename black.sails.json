@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Black Sails - Season 1",
+    "Rating": "8.3",
+    "episode": 8,
+    "categorie": "Adventure | Drama",
+    "img": "https://i.imgur.com/1VB3Bgr.jpg"
+  },
+  {
+    "name": "Black Sails - Season 2",
+    "Rating": "8.3",
+    "episode": 10,
+    "categorie": "Adventure | Drama",
+    "img": "https://i.imgur.com/5Bx9FsG.jpg"
+  },
+  {
+    "name": "Black Sails - Season 3",
+    "Rating": "8.3",
+    "episode": 10,
+    "categorie": "Adventure | Drama",
+    "img": "https://i.imgur.com/DdUA5oY.jpg"
+  },
+  {
+    "name": "Black Sails - Season 4",
+    "Rating": "8.3",
+    "episode": 10,
+    "categorie": "Adventure | Drama",
+    "img": "https://i.imgur.com/KJjIytk.jpg"
+  }
+]

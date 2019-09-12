@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Underworld",
+    "Rating": "7.0",
+    "episode": 1,
+    "categorie": "Action | Fantasy | Thriller",
+    "img": "https://i.imgur.com/jJ1jaoj.jpg"
+  },
+  {
+    "name": "Underworld: Evolution",
+    "Rating": "6.7",
+    "episode": 1,
+    "categorie": "Action | Adventure | Fantasy",
+    "img": "https://i.imgur.com/Lbps0Ld.jpg"
+  },
+  {
+    "name": "Underworld: Rise of the Lycans",
+    "Rating": "6.6",
+    "episode": 1,
+    "categorie": "Action | Adventure | Fantasy",
+    "img": "https://i.imgur.com/JLfR0gS.jpg"
+  },
+  {
+    "name": "Underworld Awakening",
+    "Rating": "6.4",
+    "episode": 1,
+    "categorie": "Action | Fantasy | Horror",
+    "img": "https://i.imgur.com/Ttr5wH3.jpg"
+  },
+  {
+    "name": "Underworld: Blood Wars",
+    "Rating": "5.8",
+    "episode": 1,
+    "categorie": "Action | Adventure | Fantasy",
+    "img": "https://i.imgur.com/YPQ5ZYT.jpg"
+  }
+]

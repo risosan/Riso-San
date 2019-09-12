@@ -1,0 +1,30 @@
+[
+  {
+    "name": "The Hunger Games",
+    "Rating": "7.2",
+    "episode": 1,
+    "categorie": "Action | Adventure | Sci-Fi",
+    "img": "https://i.imgur.com/J17jbqZ.jpg"
+  },
+  {
+    "name": "The Hunger Games: Catching Fire",
+    "Rating": "7.5",
+    "episode": 1,
+    "categorie": "Action | Adventure | Sci-Fi",
+    "img": "https://i.imgur.com/gyCvIUA.jpg"
+  },
+  {
+    "name": "The Hunger Games: Mockingjay - Part 1",
+    "Rating": "6.6",
+    "episode": 1,
+    "categorie": "Action | Adventure | Sci-Fi",
+    "img": "https://i.imgur.com/ROb3h7U.jpg"
+  },
+  {
+    "name": "The Hunger Games: Mockingjay - Part 2",
+    "Rating": "6.6",
+    "episode": 1,
+    "categorie": "Action | Adventure | Sci-Fi",
+    "img": "https://i.imgur.com/EaCNBho.jpg"
+  }
+]

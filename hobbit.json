@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The Hobbit: An Unexpected Journey",
+    "Rating": "7.9",
+    "episode": 1,
+    "categorie": "Adventure | Family | Fantasy",
+    "img": "https://i.imgur.com/rzOD72B.jpg"
+  },
+  {
+    "name": "The Hobbit: The Desolation of Smaug",
+    "Rating": "7.8",
+    "episode": 1,
+    "categorie": "Adventure | Family | Fantasy",
+    "img": "https://i.imgur.com/gnWnQoR.jpg"
+  },
+  {
+    "name": "The Hobbit: The Battle of the Five Armies",
+    "Rating": "7.4",
+    "episode": 1,
+    "categorie": "Adventure | Family | Fantasy",
+    "img": "https://i.imgur.com/tGljMZe.jpg"
+  }
+]

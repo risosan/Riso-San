@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "Rating": "8.8",
+    "episode": 1,
+    "categorie": "Adventure | Drama | Fantasy",
+    "img": "https://i.imgur.com/uApGOQA.jpg"
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "Rating": "8.7",
+    "episode": 1,
+    "categorie": "Adventure | Drama | Fantasy",
+    "img": "https://i.imgur.com/YYYLokm.jpg"
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "Rating": "8.9",
+    "episode": 1,
+    "categorie": "Adventure | Drama | Fantasy",
+    "img": "https://i.imgur.com/L937mRC.jpg"
+  }
+]

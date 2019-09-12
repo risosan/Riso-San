@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0",
+    "name": "Game of Thrones",
+    "imageurl": "https://i.imgur.com/XoGJxgG.jpg"
+  },
+  {
+    "id": "1",
+    "name": "Legend of the Seeker",
+    "imageurl": "https://i.imgur.com/lzcojyd.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Vikings",
+    "imageurl": "https://i.imgur.com/zkc4GlQ.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Into the Badlands",
+    "imageurl": "https://i.imgur.com/3RhMg5r.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Knightfall",
+    "imageurl": "https://i.imgur.com/13UZqSk.jpg"
+  },
+  {
+    "id": "5",
+    "name": "The Last Kingdom",
+    "imageurl": "https://i.imgur.com/nBbfB2O.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Rome",
+    "imageurl": "https://i.imgur.com/WQLheY8.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Spartacus",
+    "imageurl": "https://i.imgur.com/Oqx0Dxy.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Black Sails",
+    "imageurl": "https://i.imgur.com/97MkRVI.jpg"
+  },
+  {
+    "id": "9",
+    "name": "The Bastard Executioner",
+    "imageurl": "https://i.imgur.com/lEI619N.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Breaking Bad",
+    "imageurl": "https://i.imgur.com/eojwgin.jpg"
+  },
+    {
+    "id": "11",
+    "name": "Movies Series",
+    "imageurl": "https://i.imgur.com/79CKXoI.jpg"
+  }
+]

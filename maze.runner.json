@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The Maze Runner",
+    "Rating": "6.8",
+    "episode": 1,
+    "categorie": "Action | Mystery | Sci-Fi",
+    "img": "https://i.imgur.com/aY0yrxZ.jpg"
+  },
+  {
+    "name": "Maze Runner: The Scorch Trials",
+    "Rating": "6.3",
+    "episode": 1,
+    "categorie": "Action | Sci-Fi | Thriller",
+    "img": "https://i.imgur.com/NHbY28x.jpg"
+  },
+  {
+    "name": "Maze Runner: The Death Cure",
+    "Rating": "6.2",
+    "episode": 1,
+    "categorie": "Action | Sci-Fi | Thriller",
+    "img": "https://i.imgur.com/F08eHeZ.jpg"
+  }
+]

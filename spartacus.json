@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Spartacus - Season 1",
+    "Rating": "8.5",
+    "episode": 13,
+    "categorie": "Action | Adventure | Biography",
+    "img": "https://i.imgur.com/scd04m3.jpg"
+  },
+  {
+    "name": "Spartacus - Season 2",
+    "Rating": "8.5",
+    "episode": 6,
+    "categorie": "Action | Adventure | Biography",
+    "img": "https://i.imgur.com/AydGX6N.jpg"
+  },
+  {
+    "name": "Spartacus - Season 3",
+    "Rating": "8.5",
+    "episode": 10,
+    "categorie": "Action | Adventure | Biography",
+    "img": "https://i.imgur.com/cQj6uRl.jpg"
+  },
+  {
+    "name": "Spartacus - Season 4",
+    "Rating": "8.5",
+    "episode": 10,
+    "categorie": "Action | Adventure | Biography",
+    "img": "https://i.imgur.com/Qh88n8H.jpg"
+  }
+]

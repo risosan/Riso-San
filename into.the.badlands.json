@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Into the Badlands – Season 1",
+    "Rating": "8.1",
+    "episode": 6,
+    "categorie": "Action | Adventure | Drama",
+    "img": "https://i.imgur.com/z1N4pdI.jpg"
+  },
+  {
+    "name": "Into the Badlands – Season 2",
+    "Rating": "8.1",
+    "episode": 10,
+    "categorie": "Action | Adventure | Drama",
+    "img": "https://i.imgur.com/u8fXUqI.jpg"
+  },
+  {
+    "name": "Into the Badlands – Season 3",
+    "Rating": "8.1",
+    "episode": 16,
+    "categorie": "Action | Adventure | Drama",
+    "img": "https://i.imgur.com/pmbH0ZJ.jpg"
+  }
+]

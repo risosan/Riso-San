@@ -1,0 +1,23 @@
+[
+  {
+    "name": "The Last Kingdom - Season 1",
+    "Rating": "8.4",
+    "episode": 8,
+    "categorie": "Action | History | Drama",
+    "img": "https://i.imgur.com/Bceo0yy.jpg"
+  },
+  {
+    "name": "The Last Kingdom - Season 2",
+    "Rating": "8.4",
+    "episode": 8,
+    "categorie": "Action | History | Drama",
+    "img": "https://i.imgur.com/iPNUvWf.jpg"
+  },
+  {
+    "name": "The Last Kingdom - Season 3",
+    "Rating": "8.4",
+    "episode": 10,
+    "categorie": "Action | History | Drama",
+    "img": "https://i.imgur.com/DJIqMhw.jpg"
+  }
+]
