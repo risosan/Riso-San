@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dirilis Ertugrul",
+    "Rating": "7.2",
+    "episode": 10,
+    "categorie": "Action & Adventure & Drama",
+    "img": "https://i.imgur.com/Njalkb1.jpg"
+  },
+  {
+    "name": "Payitaht Abdülhamid",
+    "Rating": "5.1",
+    "episode": 17,
+    "categorie": "Action & Drama & History",
+    "img": "https://i.imgur.com/b46vDSy.jpg"
+  },
+  {
+    "name": "Mehmetçik Kut'ül Amare",
+    "Rating": "7.0",
+    "episode": 19,
+    "categorie": "Action & Adventure & History",
+    "img": "https://i.imgur.com/L24Z0GB.jpg"
+  }
+]
