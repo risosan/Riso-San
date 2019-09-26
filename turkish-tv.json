@@ -19,5 +19,19 @@
     "episode": 19,
     "categorie": "Action & Adventure & History",
     "img": "https://i.imgur.com/L24Z0GB.jpg"
+  },
+  {
+    "name": "Söz",
+    "Rating": "6.9",
+    "episode": 19,
+    "categorie": "Action, Drama, War",
+    "img": "https://i.imgur.com/DtiEXaK.jpg"
+  },
+  {
+    "name": "Filinta : An Ottoman Policeman",
+    "Rating": "6.8",
+    "episode": 19,
+    "categorie": "History",
+    "img": "https://i.imgur.com/lz2cKp1.jpg"
   }
 ]
