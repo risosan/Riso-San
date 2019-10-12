@@ -24,7 +24,7 @@
     "name": "Söz",
     "Rating": "6.9",
     "episode": 19,
-    "categorie": "Action, Drama, War",
+    "categorie": "Action & Drama & War",
     "img": "https://i.imgur.com/DtiEXaK.jpg"
   },
   {
@@ -33,5 +33,40 @@
     "episode": 19,
     "categorie": "History",
     "img": "https://i.imgur.com/lz2cKp1.jpg"
+  },
+  {
+    "name": "Nöbet",
+    "Rating": "7.4",
+    "episode": 19,
+    "categorie": "Action & Drama & War",
+    "img": "https://i.imgur.com/S7lfodz.jpg"
+  },
+  {
+    "name": "Milat",
+    "Rating": "6.5",
+    "episode": 19,
+    "categorie": "Action",
+    "img": "https://i.imgur.com/bHmliu1.jpg"
+  },
+  {
+    "name": "Yüzyillik Mühür",
+    "Rating": "6.6",
+    "episode": 19,
+    "categorie": "Biography & Drama & History",
+    "img": "https://i.imgur.com/rkIb4rv.jpg"
+  },
+  {
+    "name": "Hakan Muhafız",
+    "Rating": "7.1",
+    "episode": 19,
+    "categorie": "Action & Fantasy & Sci-Fi",
+    "img": "https://i.imgur.com/DNlqtLT.jpg"
+  },
+  {
+    "name": "Savaşçı",
+    "Rating": "6.3",
+    "episode": 19,
+    "categorie": "Action & Drama & War",
+    "img": "https://i.imgur.com/tAowFHZ.jpg"
   }
 ]
