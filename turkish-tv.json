@@ -68,5 +68,40 @@
     "episode": 19,
     "categorie": "Action & Drama & War",
     "img": "https://i.imgur.com/tAowFHZ.jpg"
+  },
+  {
+    "name": "Hercai",
+    "Rating": "7.3",
+    "episode": 19,
+    "categorie": "Drama, Romance",
+    "img": "https://i.imgur.com/kQakHjx.jpg"
+  },
+  {
+    "name": "Tek Yürek",
+    "Rating": "7.6",
+    "episode": 19,
+    "categorie": "Adventure, Drama, Sport",
+    "img": "https://i.imgur.com/zbT4mJK.jpg"
+  },
+  {
+    "name": "Elimi Birakma",
+    "Rating": "6.8",
+    "episode": 19,
+    "categorie": "Drama",
+    "img": "https://i.imgur.com/XWey7bZ.jpg"
+  },
+  {
+    "name": "Muhtesem Ikili",
+    "Rating": "6.4",
+    "episode": 19,
+    "categorie": "Action, Crime",
+    "img": "https://i.imgur.com/G0nAkIj.jpg"
+  },
+  {
+    "name": "Çukur",
+    "Rating": "7.6",
+    "episode": 19,
+    "categorie": "Action, Crime, Thriller",
+    "img": "https://i.imgur.com/A0xPxEm.jpg"
   }
 ]
