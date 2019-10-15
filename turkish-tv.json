@@ -103,5 +103,54 @@
     "episode": 19,
     "categorie": "Action & Crime & Thriller",
     "img": "https://i.imgur.com/A0xPxEm.jpg"
+  },
+  {
+    "name": "Yemin",
+    "Rating": "7.0",
+    "episode": 19,
+    "categorie": "Drama",
+    "img": "https://i.imgur.com/3leGy27.jpg"
+  },
+  {
+    "name": "Masum",
+    "Rating": "8.6",
+    "episode": 19,
+    "categorie": "Crime & Drama & Mystery",
+    "img": "https://i.imgur.com/4YNuX48.jpg"
+  },
+  {
+    "name": "46 Yok Olan",
+    "Rating": "8.6",
+    "episode": 19,
+    "categorie": "Action & Crime & Drama",
+    "img": "https://i.imgur.com/RVfJfwe.jpg"
+  },
+  {
+    "name": "Kuzgun",
+    "Rating": "8.1",
+    "episode": 19,
+    "categorie": "Action & Drama & Romance",
+    "img": "https://i.imgur.com/QrE0har.jpg"
+  },
+  {
+    "name": "Çarpisma",
+    "Rating": "7.8",
+    "episode": 19,
+    "categorie": "Action & Drama & Thriller",
+    "img": "https://i.imgur.com/oA1jeZ7.jpg"
+  },
+  {
+    "name": "Sen Anlat Karadeniz",
+    "Rating": "6.0",
+    "episode": 19,
+    "categorie": "Drama",
+    "img": "https://i.imgur.com/z5rtFZM.jpg"
+  },
+  {
+    "name": "Savaşçı",
+    "Rating": "6.3",
+    "episode": 19,
+    "categorie": "Action & Drama & War",
+    "img": "https://i.imgur.com/tAowFHZ.jpg"
   }
 ]
