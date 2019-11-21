@@ -1,8 +1,8 @@
 [
   {
     "id": "0",
-    "name": "Animespire",
-    "imageurl": "https://i.imgur.com/gDrtN1V.png"
+    "name": "kiranime",
+    "imageurl": "https://i.imgur.com/Px72Y2J.png"
   },
   {
     "id": "1",
@@ -36,7 +36,17 @@
   },
   {
     "id": "7",
-    "name": "Anime7u",
-    "imageurl": "https://i.imgur.com/IFuUTh6.png"
+    "name": "Animeiat",
+    "imageurl": "https://i.imgur.com/j6JLA24.png"
+  },
+    {
+    "id": "8",
+    "name": "Anime Soul",
+    "imageurl": "https://i.imgur.com/QYaF9no.png"
+  },
+    {
+    "id": "9",
+    "name": "Shahiid Anime",
+    "imageurl": "https://i.imgur.com/eEfm9m9.png"
   }
 ]
