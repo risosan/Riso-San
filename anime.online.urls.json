@@ -2,8 +2,8 @@
   "products": [
     {
       "id": "0",
-      "url1": "https://animespire.com/",
-      "url2": "animespire.com",
+      "url1": "https://kiranime.net",
+      "url2": "kiranime.net",
       "url3": "https://www.okanime.com/",
       "url4": "www.okanime.com",
       "url5": "https://animelek.net/",
@@ -16,9 +16,12 @@
       "url12": "anime4up.com",
       "url13": "https://skyanimetv.com/",
       "url14": "skyanimetv.com",
-      "url15": "https://anime7u.net/",
-      "url16": "anime7u.net",
-      "url17": "shewanted"
+      "url15": "https://ww1.animeiat.co",
+      "url16": "animeiat.co",
+      "url17": "https://animesoul.net",
+      "url18": "animesoul.net",
+      "url19": "https://shahiid-anime.net",
+      "url20": "shahiid-anime.net"
     }
   ]
 }
